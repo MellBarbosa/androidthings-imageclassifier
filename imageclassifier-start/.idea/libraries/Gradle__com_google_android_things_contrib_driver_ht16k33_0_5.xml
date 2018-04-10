@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.things.contrib:driver-ht16k33-0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.5.aar/b771b3b65c7b2d5325eea64529086352/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/driver-ht16k33-0.5.aar/b771b3b65c7b2d5325eea64529086352/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.things.contrib/driver-ht16k33/0.5/cd2e7e2b9a7ab9e7b852bcb02d4ec61da06e4ef5/driver-ht16k33-0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
